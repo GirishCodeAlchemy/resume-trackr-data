@@ -1,9 +1,9 @@
 {
   "company": "test1",
   "role": "software engineer",
-  "status": "Technical Round",
-  "interviewStage": "Offer",
+  "status": "Offer",
+  "interviewStage": "Technical Round",
   "notes": "",
   "created": "2026-03-18T00:19:22.298Z",
-  "lastUpdated": "2026-03-18T00:51:33.725Z"
+  "lastUpdated": "2026-03-18T00:52:58.540Z"
 }
