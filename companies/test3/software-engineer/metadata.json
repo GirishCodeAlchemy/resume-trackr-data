@@ -1,9 +1,9 @@
 {
   "company": "test3",
   "role": "software engineer",
-  "status": "Rejected",
-  "interviewStage": "Offer",
+  "status": "Offer",
+  "interviewStage": "Rejected",
   "notes": "",
   "created": "2026-03-18T00:40:57.363Z",
-  "lastUpdated": "2026-03-18T01:12:13.112Z"
+  "lastUpdated": "2026-03-18T01:16:33.168Z"
 }
